@@ -1,6 +1,6 @@
 {
   "name": "zan-ua",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Zan User-Agent 检测库",
   "main": "./lib/index.js",
   "author": "kk",
